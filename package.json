@@ -2,7 +2,7 @@
   "name": "@dietrichgebert/ponytail",
   "version": "4.9.0",
   "description": "Lazy senior dev mode for AI agents. The best code is the code you never wrote.",
-  "keywords": ["opencode-plugin", "opencode", "ponytail", "pi-package", "pi", "skills", "qoder"],
+  "keywords": ["opencode-plugin", "opencode", "ponytail", "pi-package", "pi", "skills", "qoder", "cursor-plugin", "cursor"],
   "license": "MIT",
   "author": {
     "name": "Dietrich Gebert",
@@ -25,6 +25,8 @@
     "AGENTS.md",
     "hooks/",
     "skills/",
+    "rules/",
+    ".cursor-plugin/",
     ".opencode/",
     ".qoder/",
     ".qoder-plugin/",
@@ -44,4 +46,3 @@
     "access": "public"
   }
 }
-
