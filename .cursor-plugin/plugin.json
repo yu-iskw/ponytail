@@ -16,7 +16,5 @@
     "code-review",
     "productivity"
   ],
-  "logo": "assets/logo.png",
-  "skills": "./skills/",
-  "rules": "./rules/"
+  "logo": "assets/logo.png"
 }
